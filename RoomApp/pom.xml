@@ -14,7 +14,7 @@
 	<name>RoomApp</name>
 	<description>Project to manage apis of room management system.</description>
 	<properties>
-		<java.version>21</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
